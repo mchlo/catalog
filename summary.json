@@ -1,0 +1,26 @@
+
+	  [{
+			"uuid": "5dcba310-8114-5a79-b307-20835b0b99f1",
+			"title": "potato",
+			"img": "potato_small.jpg",
+			"price": "$0.79"
+		},
+		{
+			"uuid": "534ab8d6-c040-5613-9347-e614a6b381cc",
+			"title": "iceberg lettuce",
+			"img": "iceberg_lettuce_small.jpg",
+			"price": "$2.49"
+		},
+		{
+			"uuid": "6418546d-6650-5f0e-a369-96ff85ed533b",
+			"title": "carrot",
+			"img": "carrot_small.jpg",
+			"price": "$1.49"
+		},
+		{
+			"uuid": "7a3c79fe-7941-509d-9ac9-01498a0c6404",
+			"title": "celery",
+			"img": "celery_small.jpg",
+			"price": "$1.75"
+		}
+	]

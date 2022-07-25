@@ -1,0 +1,20 @@
+{"thumbImg":[
+		{
+			"uuid": "5dcba310-8114-5a79-b307-20835b0b99f1",
+			"thumbImg": "potato_small.jpg"
+		},
+		{	
+			"uuid": "534ab8d6-c040-5613-9347-e614a6b381cc",
+			"thumbImg": "iceberg_lettuce_small.jpg"
+		},
+		{	
+			"uuid": "6418546d-6650-5f0e-a369-96ff85ed533b",
+			"thumbImg": "carrot_small.jpg"
+		},
+		{	
+			"uuid": "7a3c79fe-7941-509d-9ac9-01498a0c6404",
+			"thumbImg": "celery_small.jpg"
+		}
+		
+]
+}
